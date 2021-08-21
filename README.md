@@ -1,1 +1,1 @@
-# flux-sample-app
+# eks-example
